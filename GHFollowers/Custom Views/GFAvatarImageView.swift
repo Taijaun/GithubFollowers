@@ -32,6 +32,7 @@ class GFAvatarImageView: UIImageView {
     
     func downloadImage(from urlString: String) {
         
+        let cacheKeyString = urlString
         let cacheKey = NSString(string: urlString)
         
         if let image = cache.object(forKey: cacheKey) {
@@ -49,6 +50,10 @@ class GFAvatarImageView: UIImageView {
             guard let data = data else { return }
             
             guard let image = UIImage(data: data) else { return }
+            
+            
+            let nsCacheKey = cacheKeyString as NSString
+            self.cache.setObject(image, forKey: nsCacheKey)
             
             DispatchQueue.main.async{
                 self.image = image
