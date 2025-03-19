@@ -7,25 +7,25 @@ A simple yet powerful iOS application that allows users to explore GitHub follow
 
 ⸻
 
-🚀 Features
-    •    Search & Display – Enter a GitHub username to fetch and display a list of followers.
-    •    Search Bar Filtering – Instantly filter followers based on username.
-    •    Profile Navigation – Tap on a follower to view their followers.
-    •    Favorites – Bookmark users for easy access.
-    •    Persistent Storage – Favorite users are saved using UserDefaults.
-    •    Smooth UI & Performance – Optimized using UIKit and efficient data handling with escaping closures.
+🚀 Features<br>
+    •    Search & Display – Enter a GitHub username to fetch and display a list of followers.<br>
+    •    Search Bar Filtering – Instantly filter followers based on username.<br>
+    •    Profile Navigation – Tap on a follower to view their followers.<br>
+    •    Favorites – Bookmark users for easy access.<br>
+    •    Persistent Storage – Favorite users are saved using UserDefaults.<br>
+    •    Smooth UI & Performance – Optimized using UIKit and efficient data handling with escaping closures.<br>
 
 ⸻
 
-🛠 Technologies Used
-    •    Swift & UIKit – For a native iOS experience.
-    •    UserDefaults – To persist favorite users.
-    •    Networking – Fetching GitHub user data asynchronously using escaping closures.
+🛠 Technologies Used<br>
+    •    Swift & UIKit – For a native iOS experience.<br>
+    •    UserDefaults – To persist favorite users.<br>
+    •    Networking – Fetching GitHub user data asynchronously using escaping closures.<br>
 
 ⸻
 
-📲 Installation
-    1.    Ensure you have Xcode installed on your Mac.
+📲 Installation<br>
+    1.    Ensure you have Xcode installed on your Mac.<br>
     2.    Clone this repository:
 
 git clone https://github.com/Taijaun/GithubFollowers.git
@@ -36,13 +36,13 @@ git clone https://github.com/Taijaun/GithubFollowers.git
 
 ⸻
 
-🏃‍♂️ Usage
-    1.    Open the app and type a GitHub username in the search field.
-    2.    Browse the list of followers displayed.
-    3.    Use the search bar to filter results quickly.
-    4.    Tap on a follower to view their followers.
-    5.    Tap the + button (top-right) to add a user to your favorites.
-    6.    Access your favorite users anytime from the favorites list.
+🏃‍♂️ Usage<br>
+    1.    Open the app and type a GitHub username in the search field.<br>
+    2.    Browse the list of followers displayed.<br>
+    3.    Use the search bar to filter results quickly.<br>
+    4.    Tap on a follower to view their followers.<br>
+    5.    Tap the + button (top-right) to add a user to your favorites.<br>
+    6.    Access your favorite users anytime from the favorites list.<br>
 
 ⸻
 
