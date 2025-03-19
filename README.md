@@ -58,7 +58,7 @@ This project is open-source and available under the MIT License.
 
 ⸻
 
-![App Screenshot](https://github.com/user-attachments/assets/196921db-a209-436d-a8ab-002814e7e044)
+<img src="https://github.com/user-attachments/assets/196921db-a209-436d-a8ab-002814e7e044" width="400" height = "auto">
 ![App Screenshot](https://github.com/user-attachments/assets/0b2040c6-7972-4773-81ac-2faefc99b827)
 ![App Screenshot](https://github.com/user-attachments/assets/082e41d8-89c3-46dd-b742-5f7889a60a32)
 ![App Screenshot](https://github.com/user-attachments/assets/07084dca-55c5-47fa-9de4-dae72a7c7c05)
