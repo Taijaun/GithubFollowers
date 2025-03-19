@@ -35,7 +35,7 @@ class NetworkManager {
                 completed(.failure(.invalidResponse))
                 return
             }
-            
+
             guard let data = data else {
                 completed(.failure(.invalidData))
                 return
